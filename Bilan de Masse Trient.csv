@@ -6,7 +6,7 @@ balise,date,x,y,z,length_in_ice,length_out_ice,observations
 3new,10.09.2023,2569166,1093630,3149m,400,200,Nouvelle balise en aluminium
 1,08.09.2024,-,-,-,295,305,R.A.S
 3,08.09.2024,-,-,-,?,?,emergence du nevé de 1cm (mais fonte après le 10 septembre 2023 non quantifé)
-1,1.07.2025,-,-,-,?,150 out of snow, still snow covered (snow depth not measured). obs by Loic Perrez
-1,16.07.2025,2569245.6,1094017.34,3072,?,191 out of snow, still snow covered (snow depth not measured). obs Chloé B.
+1,1.07.2025,-,-,-,295,150 out of snow, still snow covered (snow depth not measured, but back calculated to 155cm). obs by Loic Perrez
+1,16.07.2025,2569245.6,1094017.34,3072,,191 out of snow, still snow covered (snow depth not measured, but back calculated to 114cm). obs Chloé B.
 1,12.08.2025,-,-,-,295,275 out of snow, snow depth 30cm: obs. Chloé B.
-1,14.08.2025,-,-,-,295,300 out of snow,slush around the stake. Obs. no name. very close to snow free
+1,14.08.2025,-,-,-,295,300 out of snow,slush around the stake. Obs. no name. very close to snow free (5cm from back calculation)

@@ -1,0 +1,15 @@
+coordinates: 45.9948 7.029702 
+snowdepth: 365
+h is length cylinder (cm)
+diameter of the cylinder is 94 mm
+m is total mass in g (with cylinder and carry system)
+tare is 1030 g
+h m
+55 2370
+55 2365
+53 2580
+55 2715
+56 2735
+56 2890
+39 2155
+ 
